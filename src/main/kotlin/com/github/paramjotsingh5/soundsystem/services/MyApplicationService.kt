@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.paramjotsingh5.soundsystem.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.paramjotsingh5.soundsystem.MyBundle
 
 class MyApplicationService {
 
